@@ -299,3 +299,30 @@ header {
     margin-right: 10px;
     
 }
+
+/* ----------------------*/
+/* CITIES */
+/* ----------------------*/
+
+.section-cities {
+    width: 100%;
+}
+
+.section-cities .box {
+    display: block;
+    float: left;
+    width: 23%;
+    text-align: center;
+}
+
+.section-cities img {
+    width:100%;
+    margin-bottom: 15px;
+    overflow: hidden;
+    height: auto;
+    background-color: #000;
+}
+
+.city-feature {
+    margin-bottom: 5px;
+}
