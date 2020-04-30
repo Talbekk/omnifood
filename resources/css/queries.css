@@ -22,7 +22,10 @@
     
     .steps-box { margin-top 10px; }
     .steps-box:last-child { margin-bottom: 10px; }
-    .works-step { margin-bottom: 40px; }
+    .works-step { 
+        margin-bottom: 40px;
+        padding-bottom: 20px;
+    }
     .works-step:last-child { margin-bottom: 60px; }
     
     .app-screen { width: 50%; }
