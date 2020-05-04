@@ -38,4 +38,10 @@ $('document').ready(function() {
             }
         });
     });
+    
+    /* ANIMATIONS ON PLUG INS */ 
+    $('.js--wp-1').waypoint(function(direction) {
+        $('.js--wp-1').addClass('animated fadeIn');
+    });
+    
 });
